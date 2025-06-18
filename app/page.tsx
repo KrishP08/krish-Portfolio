@@ -360,7 +360,7 @@ export default function Portfolio() {
                 <div className="absolute inset-0 rounded-full bg-gradient-to-br from-purple-500 to-blue-500 blur-3xl opacity-20 animate-pulse"></div>
                 <div className="relative w-full h-full rounded-full border-2 border-border/50 overflow-hidden bg-background/50 backdrop-blur-sm p-4">
                   <img
-                    src="../public/krish-hero-photo.png"
+                    src="/../public/krish-hero-photo.png"
                     alt="Krish Patel"
                     className="w-full h-full rounded-full object-cover"
                   />
