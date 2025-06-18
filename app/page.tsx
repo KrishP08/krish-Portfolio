@@ -222,16 +222,16 @@ const experiences = [
   {
     title: "Diploma in Information Technology",
     company: "Ganpat University",
-    period: "2021 - 2024",
+    period: "2022 - 2025",
     description:
       "Completed a comprehensive diploma program in Information Technology, focusing on web development, programming languages, and database management.",
   },
   {
-    title: "Frontend Developer Intern",
-    company: "Tech Solutions Inc.",
-    period: "2023 - 2024",
-    description:
-      "Developed responsive web applications using React and Next.js. Implemented UI/UX designs and optimized performance.",
+  title: "GUNI SciTech Fest-2025",
+  company: "Ganpat University",
+  period: "2025",
+  description:
+    "Participated in the GUNI SciTech Fest-2025 and won First Prize for developing an Obstacle-Avoiding Fire Extinguisher Car. Contributed to the design and programming of the autonomous navigation system using sensors to detect and avoid obstacles in real-time. The project showcased innovative problem-solving in disaster response robotics and received recognition for technical excellence and practical application."
   },
   {
     title: "Freelance Web Developer",
@@ -423,7 +423,7 @@ export default function Portfolio() {
               <div className="relative aspect-video rounded-lg overflow-hidden border border-border/50 shadow-xl">
                 <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-blue-500/10"></div>
                 <img
-                  src="/krish-about-photo.png"
+                  src="/krish-about.png"
                   alt="Krish Patel - Full Stack Developer"
                   className="w-full h-full object-cover"
                 />
