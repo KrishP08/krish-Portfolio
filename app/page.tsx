@@ -728,7 +728,7 @@ export default function Portfolio() {
                     </div>
                     <div>
                       <p className="font-medium">Instagram</p>
-                      <p className="text-sm text-muted-foreground">@krishp08</p>
+                      <p className="text-sm text-muted-foreground">@krish_7233</p>
                     </div>
                   </CardContent>
                 </Card>

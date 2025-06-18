@@ -64,7 +64,7 @@ export function Footer() {
                 </Link>
               </Button>
               <Button variant="outline" size="icon" asChild>
-                <Link href="https://instagram.com/krishp08" target="_blank" aria-label="Instagram">
+                <Link href="https://instagram.com/krish_7233" target="_blank" aria-label="Instagram">
                   <Instagram className="h-5 w-5" />
                 </Link>
               </Button>

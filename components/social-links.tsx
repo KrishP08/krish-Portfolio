@@ -9,7 +9,7 @@ export function SocialLinks() {
   const socialLinks = [
     { icon: Github, href: "https://github.com/KrishP08", label: "GitHub" },
     { icon: Linkedin, href: "https://linkedin.com/in/krishp08", label: "LinkedIn" },
-    { icon: Instagram, href: "https://instagram.com/krishp08", label: "Instagram" },
+    { icon: Instagram, href: "https://instagram.com/krish_7233", label: "Instagram" },
     { icon: Mail, href: "mailto:7233kp@gmail.com", label: "Email" },
   ]
 
