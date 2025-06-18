@@ -423,7 +423,7 @@ export default function Portfolio() {
               <div className="relative aspect-video rounded-lg overflow-hidden border border-border/50 shadow-xl">
                 <div className="absolute inset-0 bg-gradient-to-br from-purple-500/10 to-blue-500/10"></div>
                 <img
-                  src="/images/krish-about-photo.jpg"
+                  src="/../public/krish-hero-photo.png"
                   alt="Krish Patel - Full Stack Developer"
                   className="w-full h-full object-cover"
                 />
