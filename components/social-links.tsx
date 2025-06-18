@@ -8,7 +8,7 @@ import { motion } from "framer-motion"
 export function SocialLinks() {
   const socialLinks = [
     { icon: Github, href: "https://github.com/KrishP08", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com/in/krishp08", label: "LinkedIn" },
+    { icon: Linkedin, href: "www.linkedin.com/in/krish-patel-8b6137329", label: "LinkedIn" },
     { icon: Instagram, href: "https://instagram.com/krish_7233", label: "Instagram" },
     { icon: Mail, href: "mailto:7233kp@gmail.com", label: "Email" },
   ]

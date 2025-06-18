@@ -59,7 +59,7 @@ export function Footer() {
                 </Link>
               </Button>
               <Button variant="outline" size="icon" asChild>
-                <Link href="https://linkedin.com/in/krishp08" target="_blank" aria-label="LinkedIn">
+                <Link href="www.linkedin.com/in/krish-patel-8b6137329" target="_blank" aria-label="LinkedIn">
                   <Linkedin className="h-5 w-5" />
                 </Link>
               </Button>
