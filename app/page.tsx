@@ -176,7 +176,7 @@ const projects = [
     status: "Completed",
     github: "#",
     demo: "#",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/placeholder.png?height=400&width=600",
     featured: true,
   },
   {
