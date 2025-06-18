@@ -155,7 +155,7 @@ const projects = [
   status: "Completed",
   github: "https://github.com/KrishP08/OSC_php",
   demo: "#",
-  image: "/osc.svg?height=400&width=600",
+  image: "/osc.png?height=400&width=600",
   featured: true,
   },
   {
@@ -165,7 +165,7 @@ const projects = [
       status: "Completed",
       github: "https://github.com/KrishP08/vyom",
       demo: "https://vyom-wine.vercel.app/",
-      image: "/vyom.svg?height=400&width=600",
+      image: "/vyom.png?height=400&width=600",
       featured: true,
   },
   {
