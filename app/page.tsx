@@ -231,8 +231,7 @@ const experiences = [
   company: "Ganpat University",
   period: "2025",
   description:
-    "Participated in the GUNI SciTech Fest-2025 and won First Prize for developing an Obstacle-Avoiding Fire Extinguisher Car. Contributed to the design and programming of the autonomous navigation system using sensors to detect and avoid obstacles in real-time. The project showcased innovative problem-solving in disaster response robotics and received recognition for technical excellence and practical application."
-  },
+     "Won First Prize at GUNI SciTech Fest-2025 for building an Obstacle-Avoiding Fire Extinguisher Car with autonomous navigation and real-time sensor-based obstacle detection."  },
   {
     title: "Freelance Web Developer",
     company: "Self-employed",
