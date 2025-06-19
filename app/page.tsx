@@ -154,7 +154,7 @@ const projects = [
   tech: ["React", "Node.js", "MongoDB", "Socket.io"],
   status: "Completed",
   github: "https://github.com/KrishP08/OSC_php",
-  demo: "#",
+  demo: "http://osc.free.nf/",
   image: "/osc.png?height=400&width=600",
   featured: true,
   },
